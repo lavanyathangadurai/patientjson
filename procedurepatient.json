@@ -1,0 +1,45 @@
+{
+  "response":{"numFound":13,"start":0,"docs":[
+      {
+        "PK_RESOURCE_ID":"52283",
+        "RESOURCE_NAME":"Jason, Durham S | 2 | 2646212"},
+      {
+        "PK_RESOURCE_ID":"36103",
+        "RESOURCE_NAME":"Cindy, Durham J | 2 | 2630032"},
+      {
+        "PK_RESOURCE_ID":"6498",
+        "RESOURCE_NAME":"Richard, Durham R | 2 | 2600427"},
+      {
+        "PK_RESOURCE_ID":"51840",
+        "RESOURCE_NAME":"Cathy, Durham W | 2 | 2645769"},
+      {
+        "PK_RESOURCE_ID":"33432",
+        "RESOURCE_NAME":"Evan, Durham M | 2 | 2627361"},
+      {
+        "PK_RESOURCE_ID":"49955",
+        "RESOURCE_NAME":"Lillian, Durham M | 2 | 2643884"},
+      {
+        "PK_RESOURCE_ID":"55614",
+        "RESOURCE_NAME":"David, Durham M | 2 | 2649543"},
+      {
+        "PK_RESOURCE_ID":"16085",
+        "RESOURCE_NAME":"Theresa, Durham N | 2 | 2610014"},
+      {
+        "PK_RESOURCE_ID":"1969",
+        "RESOURCE_NAME":"Charles, Durham M | 53 | 2595898"},
+      {
+        "PK_RESOURCE_ID":"22448",
+        "RESOURCE_NAME":"Mildred, Durham R | 2 | 2616377"},
+      {
+        "PK_RESOURCE_ID":"6645",
+        "RESOURCE_NAME":"Sharon, Durham M | 39 | 2600574"},
+      {
+        "PK_RESOURCE_ID":"19238",
+        "RESOURCE_NAME":"Filiberto, Durham D | 2 | 2613167"},
+      {
+        "PK_RESOURCE_ID":"35634",
+        "RESOURCE_NAME":"George, Durham V | 2 | 2629563"}]
+  },
+  "tense_fields":"RESOURCE_NAME,PK_RESOURCE_ID",
+  "tense_facet_fields":"*:*",
+  "suppress_warning":"0"}
